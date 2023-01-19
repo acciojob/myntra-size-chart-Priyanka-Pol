@@ -9,8 +9,11 @@ table,th,td{
 table{
 		widht:100%;
 }
+th{
+	background-color: lightcoral;
+}
 tr:nth-child(odd){
-	background-color:lightcoral;
+	background-color:blanchedalmond;
 }
 tr:nth-child(even){
 	background-color:lightcyan;
